@@ -22,40 +22,26 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,github,git,vscode,figma,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,github,git,vscode,figma,bootstrap,java,python,cpp,c,oracle" />
 </p>
 
 ---
 
-### 🧩 Dev Metrics
+### 📈 Developer Dashboard
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedkTahseen&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SyedkTahseen&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedkTahseen&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedkTahseen&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Contribution Streaks & Achievements
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyedkTahseen&theme=radical&hide_border=false" />
-</p>
-
----
-
-### 🎬 Cool Developer Vibes
+### 🎬 Dev Vibes Zone
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
+  <br />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350px" />
 </p>
-
----
-
-### 📂 Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [🌍 Smart Global Expo System](https://github.com/SyedkTahseen/smart-expo) | HTML, CSS, JS, PHP, MySQL | A full-stack expo system with AI chatbot and real-time features |
-| [💬 Live Chat App](https://github.com/SyedkTahseen/chat-app) | WebSockets, JS, PHP, MySQL | Real-time group chat with secure login and chatrooms |
-| [🛒 E-commerce Site](https://github.com/SyedkTahseen/ecommerce-frontend) | MERN Stack | Dynamic frontend for e-commerce with cart, auth, and sleek UI |
 
 ---
 
@@ -72,7 +58,6 @@
 ---
 
 ### 💡 Fun Fact
-
 > 🌌 I debug at night, design in the day, and deploy in between. Let's build something amazing together!
 
 <p align="center">
