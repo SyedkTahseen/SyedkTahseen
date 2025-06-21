@@ -54,7 +54,7 @@
 </p>
 
 ---
-<h1 align="center">🤝 Connect With Me</h1>
+<h3 align="center">🤝 Connect With Me</h3>
 
 ### 
 <p align="center">
