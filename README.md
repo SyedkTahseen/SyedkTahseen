@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://github.com/SyedkTahseen/SyedkTahseen/assets/your-banner-gif-or-img" width="100%" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Welcome Banner">
 </p>
 
 <h1 align="center">Hey there 👋, I'm Syed Khizr Tahseen</h1>
@@ -39,7 +39,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedkTahseen&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=SyedkTahseen&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
