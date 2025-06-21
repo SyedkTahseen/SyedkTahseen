@@ -38,6 +38,7 @@
 ### 📈 Developer Dashboard
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedkTahseen&theme=tokyonight" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedkTahseen&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedkTahseen&theme=tokyonight" />
 </p>
 
@@ -45,7 +46,6 @@
 
 ### 🌀 Animated Developer Zone
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350px" />
   <br />
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300px" />
