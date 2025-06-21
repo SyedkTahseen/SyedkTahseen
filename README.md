@@ -1,7 +1,8 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40eb-8f9b-5b7d5f29d6de.gif" width="100%" alt="Welcome Banner">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40eb-8f9b-5b7d5f29d6de.gif" width="100%" height="400px" alt="Welcome Banner">
 </p>
+
 
 <h1 align="center">Hey there 👋, I'm Syed Khizr Tahseen</h1>
 
@@ -11,16 +12,16 @@
 
 ---
 
-### 🚀 Elevating Code into Creativity
+### 👨‍💻 About Myself
 <p align="center">
-  A passionate full-stack developer blending front-end finesse with back-end brilliance. With a strong grasp of UI/UX and a keen eye for modern design, I build responsive, real-world applications that fuse logic and aesthetics. Currently deep-diving into cloud, IoT, and real-time systems to expand my tech horizons. Let's turn visionary ideas into tangible innovations!
+  I'm Syed Khizr Tahseen, a dedicated and enthusiastic B.Tech Information Technology student at Puducherry Technological University. My passion lies in crafting beautiful, interactive, and robust web applications. I enjoy working across the full stack—designing intuitive UIs, writing clean backend code, and building secure, scalable systems. I'm deeply invested in learning new technologies like IoT and real-time web development. Through consistent learning, hands-on projects, and teamwork, I'm on a mission to transform ideas into impactful digital solutions.
+</p>
 </p>
 
 ---
 
 ### 🧠 About Me
 - 🎓 B.Tech IT Student @ Puducherry Technological University  
-- 💻 Currently Building: **Smart Global Heterogeneous Expo Monitoring System**  
 - 🌐 Tech Stack: HTML • CSS • JavaScript • PHP • React • MySQL • XAMPP  
 - 🧠 Also exploring: WebSockets • IoT • AI Bots • Cloud • GitOps  
 - 🤝 Open to collaborations & hackathons  
