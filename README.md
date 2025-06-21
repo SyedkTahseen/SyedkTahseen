@@ -1,6 +1,6 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Welcome Banner" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="max-height: 220px;" alt="Welcome Banner" />
 </p>
 
 
