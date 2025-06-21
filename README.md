@@ -1,8 +1,7 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Banner" width="100%" style="max-height: 220px;" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Developer Banner" width="800" height="180" />
 </p>
-
 
 
 <h1 align="center">Hey there 👋, I'm Syed Khizr Tahseen</h1>
