@@ -1,7 +1,8 @@
 <!-- 🌟 Profile Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40eb-8f9b-5b7d5f29d6de.gif" width="100%" height="400px" alt="Welcome Banner">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Welcome Banner" />
 </p>
+
 
 
 <h1 align="center">Hey there 👋, I'm Syed Khizr Tahseen</h1>
