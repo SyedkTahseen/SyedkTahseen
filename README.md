@@ -37,7 +37,6 @@
 
 ### 📈 Developer Dashboard
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedkTahseen&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedkTahseen&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SyedkTahseen&theme=tokyonight" />
 </p>
