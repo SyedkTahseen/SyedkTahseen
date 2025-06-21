@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Myself
+###              About Myself
 <p align="center">
   I'm Syed Khizr Tahseen, a dedicated and enthusiastic B.Tech Information Technology student at Puducherry Technological University. My passion lies in crafting beautiful, interactive, and robust web applications. I enjoy working across the full stack—designing intuitive UIs, writing clean backend code, and building secure, scalable systems. I'm deeply invested in learning new technologies like IoT and real-time web development. Through consistent learning, hands-on projects, and teamwork, I'm on a mission to transform ideas into impactful digital solutions.
 </p>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 - 🎓 B.Tech IT Student @ Puducherry Technological University  
 - 🌐 Tech Stack: HTML • CSS • JavaScript • PHP • React • MySQL • XAMPP  
 - 🧠 Also exploring: WebSockets • IoT • AI Bots • Cloud • GitOps  
@@ -28,14 +28,14 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,github,git,vscode,figma,bootstrap,java,python,cpp,c,oracle,sql" />
 </p>
 
 ---
 
-### 📈 Developer Dashboard
+###  Developer Dashboard
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedkTahseen&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SyedkTahseen&theme=tokyonight" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🌀 Animated Developer Zone
+###  Animated Developer Zone
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350px" />
   <br />
