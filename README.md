@@ -54,8 +54,9 @@
 </p>
 
 ---
+<h1 align="center">🤝 Connect With Me</h1>
 
-### 🤝 Connect With Me
+### 
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-khizr-tahseen-521256286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
