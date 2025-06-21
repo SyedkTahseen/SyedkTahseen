@@ -11,6 +11,13 @@
 
 ---
 
+### 🚀 Elevating Code into Creativity
+<p align="center">
+  A passionate full-stack developer blending front-end finesse with back-end brilliance. With a strong grasp of UI/UX and a keen eye for modern design, I build responsive, real-world applications that fuse logic and aesthetics. Currently deep-diving into cloud, IoT, and real-time systems to expand my tech horizons. Let's turn visionary ideas into tangible innovations!
+</p>
+
+---
+
 ### 🧠 About Me
 - 🎓 B.Tech IT Student @ Puducherry Technological University  
 - 💻 Currently Building: **Smart Global Heterogeneous Expo Monitoring System**  
@@ -22,7 +29,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,github,git,vscode,figma,bootstrap,java,python,cpp,c,oracle" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,github,git,vscode,figma,bootstrap,java,python,cpp,c,oracle,sql" />
 </p>
 
 ---
@@ -36,11 +43,12 @@
 
 ---
 
-### 🎬 Dev Vibes Zone
+### 🌀 Animated Developer Zone
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
-  <br />
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350px" />
+  <br />
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300px" />
 </p>
 
 ---
