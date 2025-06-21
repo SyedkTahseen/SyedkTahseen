@@ -14,7 +14,7 @@
 
 ###      <h1 align="center">About Myself</h1>
 
-<p align="center" text-align= "justify">
+<p align="center">
   I'm Syed Khizr Tahseen, a dedicated and enthusiastic B.Tech Information Technology student at Puducherry Technological University. My passion lies in crafting beautiful, interactive, and robust web applications. I enjoy working across the full stack—designing intuitive UIs, writing clean backend code, and building secure, scalable systems. I'm deeply invested in learning new technologies like IoT and real-time web development. Through consistent learning, hands-on projects, and teamwork, I'm on a mission to transform ideas into impactful digital solutions.
 </p>
 </p>
